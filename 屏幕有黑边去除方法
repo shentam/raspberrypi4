@@ -1,6 +1,6 @@
 # raspberrypi4
 setup
-屏幕有黑边去除方法
+
 
 /boot/config.txt 中修改第10行的：
 
