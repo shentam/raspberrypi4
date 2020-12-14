@@ -1,0 +1,5 @@
+# raspberrypi4
+setup
+raspberry preference->raspberrypi configuration->interface->vnc enable
+user name pi
+password raspberry
